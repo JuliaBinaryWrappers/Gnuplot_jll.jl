@@ -1,143 +1,160 @@
 [[Gnuplot]]
 arch = "aarch64"
-git-tree-sha1 = "d2677a7e23a944b7031b7742b32e0ff313a2b53d"
+git-tree-sha1 = "2d41db744ad5adfcb10cd76abe64e642f726726f"
 os = "macos"
 
     [[Gnuplot.download]]
-    sha256 = "cc94aa9027038ac8dfad60e923cfa8db2c190ea9a83f5f43b3e70756c56fa697"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.aarch64-apple-darwin.tar.gz"
+    sha256 = "4ca60b5a0bffe3d1bae95b18bd943fdd1907a932b19fde56d8e211af37ce54c1"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.aarch64-apple-darwin.tar.gz"
 [[Gnuplot]]
 arch = "aarch64"
-git-tree-sha1 = "08a202aac02e9740ac2519b8790a07fa43f0caeb"
+git-tree-sha1 = "5f19644063c5d0736dc41c88f0f05fced9bc160d"
 libc = "glibc"
 os = "linux"
 
     [[Gnuplot.download]]
-    sha256 = "aad6d78b1108123f4e1985d3f5aebe91c2cd343d9387b6ec6598bdb10c16af03"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.aarch64-linux-gnu.tar.gz"
+    sha256 = "0ebb54b2574db651f93ab10bf3807cca167fad885367abbd28462c53251a8c8e"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.aarch64-linux-gnu.tar.gz"
 [[Gnuplot]]
 arch = "aarch64"
-git-tree-sha1 = "c71c4f24bc050ff0206d9eed233bea4c95d912df"
+git-tree-sha1 = "1363807169d9f4636fe8241fa8e36a6c69407c4e"
 libc = "musl"
 os = "linux"
 
     [[Gnuplot.download]]
-    sha256 = "90e69d0a0a45ad246d5d5c32f552aadc28b0cfe88efb3d84b80332ce7de0dae8"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.aarch64-linux-musl.tar.gz"
+    sha256 = "72558357c3f07234187685a924384eb738f6522703769eda11d679ac339481dc"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.aarch64-linux-musl.tar.gz"
 [[Gnuplot]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "f8290cbe562cf9aa9b7f5caf91f84c257ed877f6"
-libc = "glibc"
-os = "linux"
-
-    [[Gnuplot.download]]
-    sha256 = "c4df840066682b03d48954d06e25cf03d53ed7d2cc98715d74855fb6ddd34eaf"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.armv6l-linux-gnueabihf.tar.gz"
-[[Gnuplot]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "cef312e08132db29cb7a33dbef6cb1806933b839"
-libc = "musl"
-os = "linux"
-
-    [[Gnuplot.download]]
-    sha256 = "1c33f6886a3a237ac12c0107fe6ed1bf97a32bd1295c053d19655d673f67018d"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.armv6l-linux-musleabihf.tar.gz"
-[[Gnuplot]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "0f83a661b780f76ac99a7e651f6cc4966d7c43d0"
-libc = "glibc"
-os = "linux"
-
-    [[Gnuplot.download]]
-    sha256 = "2fe0c998c3cb3fe635e52cfb81ca83a60962889178e177f0711f7227c9fdccdd"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.armv7l-linux-gnueabihf.tar.gz"
-[[Gnuplot]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "51891ba4f9ecb0deb817ba6e0e75fedaa05236e5"
-libc = "musl"
-os = "linux"
-
-    [[Gnuplot.download]]
-    sha256 = "415bedde5078704071ef5aa2a90f3b994f2d244b3993144fd72ff25e424af2e5"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.armv7l-linux-musleabihf.tar.gz"
-[[Gnuplot]]
-arch = "i686"
-git-tree-sha1 = "c8f4135d9067da965285054ba55a301d62d535ab"
-libc = "glibc"
-os = "linux"
-
-    [[Gnuplot.download]]
-    sha256 = "637d1973bc272f26e3c59f070845b31454eedac4ed2b2928c93c5d25caf6ed4b"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.i686-linux-gnu.tar.gz"
-[[Gnuplot]]
-arch = "i686"
-git-tree-sha1 = "e2260f1b1406ef5dcfc51359ba6c23db2c57d282"
-libc = "musl"
-os = "linux"
-
-    [[Gnuplot.download]]
-    sha256 = "0aad6dc10c9d39b65f784f410c745cc4ddbbe6f26b10b88b01abe3465553f81d"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.i686-linux-musl.tar.gz"
-[[Gnuplot]]
-arch = "i686"
-git-tree-sha1 = "c722bb3084259f19347bd69a8fb5ea0f4be9c5e8"
-os = "windows"
-
-    [[Gnuplot.download]]
-    sha256 = "60df365ee478848ce0364c70ee05157dc4ada9acf03937b4b9969109d642f618"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.i686-w64-mingw32.tar.gz"
-[[Gnuplot]]
-arch = "powerpc64le"
-git-tree-sha1 = "07162d32138340f30488099af054426693738777"
-libc = "glibc"
-os = "linux"
-
-    [[Gnuplot.download]]
-    sha256 = "a2138e5af40d64e61b6f0c0a9d9a63a1314d49155acd19e4734519c36d23d2b9"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.powerpc64le-linux-gnu.tar.gz"
-[[Gnuplot]]
-arch = "x86_64"
-git-tree-sha1 = "f055eb3d359678bf6dfca599fe888fa670b796ce"
-os = "macos"
-
-    [[Gnuplot.download]]
-    sha256 = "6b629df64657c4c30a72f4147079dd4180aab0c8a3e6998f43cfac9c86e2ee38"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.x86_64-apple-darwin.tar.gz"
-[[Gnuplot]]
-arch = "x86_64"
-git-tree-sha1 = "19f560c2e458d023aa34255ebd97d7108ea01e70"
-libc = "glibc"
-os = "linux"
-
-    [[Gnuplot.download]]
-    sha256 = "d6fca3372329c335712bf89ae5609b00223b58a5291ddba843dbf0ff9142f9f5"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.x86_64-linux-gnu.tar.gz"
-[[Gnuplot]]
-arch = "x86_64"
-git-tree-sha1 = "a037d3ea9e7761d86b6f050bf1fc89a0c6adcf76"
-libc = "musl"
-os = "linux"
-
-    [[Gnuplot.download]]
-    sha256 = "56c7d138d23bd98c0fa481478228875068b14b06a55de8857e1583f20307dbe1"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.x86_64-linux-musl.tar.gz"
-[[Gnuplot]]
-arch = "x86_64"
-git-tree-sha1 = "05d68b16bd0ec1689f358aba025a3a178543dd4f"
+arch = "aarch64"
+git-tree-sha1 = "e9fe4c33c71b1b8bd115bec28e61eee516340128"
 os = "freebsd"
 
     [[Gnuplot.download]]
-    sha256 = "cd92557cfb6c725adc49a81d84984d01ce436f9b20457710d6d31d5498c043a5"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "a69610d51af81d2d4deb03699045a04b134ebf8aa8774796ba0088fdf337dfcf"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.aarch64-unknown-freebsd.tar.gz"
 [[Gnuplot]]
-arch = "x86_64"
-git-tree-sha1 = "022eb68b76e662d22b66f3f707fd7dfca33d5c05"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a194c26481b89f76102c7e0d85fa55478c808d5d"
+libc = "glibc"
+os = "linux"
+
+    [[Gnuplot.download]]
+    sha256 = "c53bd27118f24a3c833ed94c73976dcf354dc45d3f2c8aaf3f9b55d53f5902d1"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.armv6l-linux-gnueabihf.tar.gz"
+[[Gnuplot]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6911fee6b5ca5c63294edfeaa0634a1ac057d1eb"
+libc = "musl"
+os = "linux"
+
+    [[Gnuplot.download]]
+    sha256 = "52a0c132b2f5033553c926330d64a07cd0e6a57abf8440a01506bd76509ba3d9"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.armv6l-linux-musleabihf.tar.gz"
+[[Gnuplot]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "745025a056b0fd47f1656091b0a74c9149e28584"
+libc = "glibc"
+os = "linux"
+
+    [[Gnuplot.download]]
+    sha256 = "98d9a121e2d14486dd019f22e512c32e8bddd451ee2590a3794acaf36292aae9"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.armv7l-linux-gnueabihf.tar.gz"
+[[Gnuplot]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e309f13daf59339f4b6a6e717cdbfb03f49bae6a"
+libc = "musl"
+os = "linux"
+
+    [[Gnuplot.download]]
+    sha256 = "b5fc261f41b05c4249a3de72475e47cb4155e10fde85c335f34270571067a39c"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.armv7l-linux-musleabihf.tar.gz"
+[[Gnuplot]]
+arch = "i686"
+git-tree-sha1 = "312b4c2e14f4bc15e73a50287d83d2702fe1a366"
+libc = "glibc"
+os = "linux"
+
+    [[Gnuplot.download]]
+    sha256 = "d9dd5f151bcaca63c201a9fa3a4e1aee8f32e696baaf57b3de7eaf32faaa3db4"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.i686-linux-gnu.tar.gz"
+[[Gnuplot]]
+arch = "i686"
+git-tree-sha1 = "e3c9bc5525049e5fc4f5d2e2e816ba62e12cdb17"
+libc = "musl"
+os = "linux"
+
+    [[Gnuplot.download]]
+    sha256 = "7accacaadc8dff34f5342824307e6fd5a87e0ffb1448213ec5ab916350cc83e5"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.i686-linux-musl.tar.gz"
+[[Gnuplot]]
+arch = "i686"
+git-tree-sha1 = "b81b06382b604a966fccca1ba25be9b58dc07afd"
 os = "windows"
 
     [[Gnuplot.download]]
-    sha256 = "66dfa964bffb26af8d7fc7889e2a6e1673d6bcc4b913297bbdc151a56d43dfa9"
-    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5+0/Gnuplot.v5.4.5.x86_64-w64-mingw32.tar.gz"
+    sha256 = "247dc1028b34cf567e81bb62427579abe868ca66cf3e0e468a6e010d16cb93e9"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.i686-w64-mingw32.tar.gz"
+[[Gnuplot]]
+arch = "powerpc64le"
+git-tree-sha1 = "dfaedc6b6b86d903ad56ed260a3f341b0e1b6d12"
+libc = "glibc"
+os = "linux"
+
+    [[Gnuplot.download]]
+    sha256 = "cd79bfa4c2f116897497580c99082fda5d5dc27f66f7a23f53beecafad807057"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.powerpc64le-linux-gnu.tar.gz"
+[[Gnuplot]]
+arch = "riscv64"
+git-tree-sha1 = "77bdccf7edad34d201c673d0009dc48811c4d08c"
+libc = "glibc"
+os = "linux"
+
+    [[Gnuplot.download]]
+    sha256 = "5efb230cc229a6485767a79e1d60e9f17a02e11c8e7bde7ab277c10ac3576b87"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.riscv64-linux-gnu.tar.gz"
+[[Gnuplot]]
+arch = "x86_64"
+git-tree-sha1 = "b6b40b40b7f123d21040b341710483f037890c9d"
+os = "macos"
+
+    [[Gnuplot.download]]
+    sha256 = "f5e9edd9f6909236b3f6a0e4046204f389deed842b913fd2a03c3cac221ee5b9"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.x86_64-apple-darwin.tar.gz"
+[[Gnuplot]]
+arch = "x86_64"
+git-tree-sha1 = "f961f4adbf1502898402c017a373cbae2be8a21a"
+libc = "glibc"
+os = "linux"
+
+    [[Gnuplot.download]]
+    sha256 = "8fa9426d10d7251a67e6e25cf76243015ea19bc525b236174748e434ed692e9f"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.x86_64-linux-gnu.tar.gz"
+[[Gnuplot]]
+arch = "x86_64"
+git-tree-sha1 = "d25de362f7d9543ff0131185e0327c89e2d6760b"
+libc = "musl"
+os = "linux"
+
+    [[Gnuplot.download]]
+    sha256 = "e755735f8e6b6869ba872b6cf53e0c1f0ea39c47345ff38efa15aa592e9962e9"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.x86_64-linux-musl.tar.gz"
+[[Gnuplot]]
+arch = "x86_64"
+git-tree-sha1 = "d58cd648d752c96d6dcc0de1d55dcb7cb67f4780"
+os = "freebsd"
+
+    [[Gnuplot.download]]
+    sha256 = "38014fa4cb90c518865f9dcb5744835a58d2e549d09c85cf7238ff8ac818561d"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.x86_64-unknown-freebsd.tar.gz"
+[[Gnuplot]]
+arch = "x86_64"
+git-tree-sha1 = "ba39a6c359e52635515597d34707ef95824ccd2e"
+os = "windows"
+
+    [[Gnuplot.download]]
+    sha256 = "0899228469cd952f08f02f9e8c36f7d439bb5804e3189e7a76ad3872902e24d0"
+    url = "https://github.com/JuliaBinaryWrappers/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.5000+0/Gnuplot.v5.4.5000.x86_64-w64-mingw32.tar.gz"

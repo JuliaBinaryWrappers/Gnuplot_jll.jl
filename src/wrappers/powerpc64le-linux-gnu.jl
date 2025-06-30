@@ -3,13 +3,13 @@ export gnuplot
 
 using Libcerf_jll
 using LibGD_jll
-using Qt5Svg_jll
 using Cairo_jll
 using Libiconv_jll
+using Qt5Svg_jll
 JLLWrappers.@generate_wrapper_header("Gnuplot")
 JLLWrappers.@declare_executable_product(gnuplot)
 function __init__()
-    JLLWrappers.@generate_init_header(Libcerf_jll, LibGD_jll, Qt5Svg_jll, Cairo_jll, Libiconv_jll)
+    JLLWrappers.@generate_init_header(Libcerf_jll, LibGD_jll, Cairo_jll, Libiconv_jll, Qt5Svg_jll)
     JLLWrappers.@init_executable_product(
         gnuplot,
         "bin/gnuplot",
