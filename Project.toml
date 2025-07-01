@@ -1,16 +1,20 @@
 name = "Gnuplot_jll"
 uuid = "e5af9688-3aeb-5ed5-8c7e-253e55323d3e"
-version = "5.4.5000+0"
+version = "6.0.3000+0"
 
 [deps]
-JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-Cairo_jll = "83423d85-b0ee-5818-9007-b63ccbeb887a"
-LibGD_jll = "16339573-6216-525a-b38f-30b6f6b71b5f"
-Libcerf_jll = "af83a40a-c4c4-57a0-81df-2309fbd279e3"
-Qt5Svg_jll = "3af4ccab-a251-578e-a514-ea85a0ba79ee"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
-Libiconv_jll = "94ce4f54-9a6c-5748-9c1c-f9c7231a4531"
+Pango_jll = "36c8627f-9965-5494-a995-c6b170f724f3"
+Cairo_jll = "83423d85-b0ee-5818-9007-b63ccbeb887a"
+libwebp_jll = "c5f90fcd-3b7e-5836-afba-fc50a0988cb2"
+LibGD_jll = "16339573-6216-525a-b38f-30b6f6b71b5f"
+Qt5Svg_jll = "3af4ccab-a251-578e-a514-ea85a0ba79ee"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Libcerf_jll = "af83a40a-c4c4-57a0-81df-2309fbd279e3"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+Readline_jll = "05236dd9-4125-5232-aa7c-9ec0c9b2c25a"
+Libiconv_jll = "94ce4f54-9a6c-5748-9c1c-f9c7231a4531"
+Libffi_jll = "e9f186c6-92d2-5b65-8a66-fee21dc1b490"
 
 [compat]
 JLLWrappers = "1.7.0"
