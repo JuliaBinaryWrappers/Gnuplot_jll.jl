@@ -1,6 +1,6 @@
 name = "Gnuplot_jll"
 uuid = "e5af9688-3aeb-5ed5-8c7e-253e55323d3e"
-version = "6.0.3000+0"
+version = "6.0.3001+0"
 
 [deps]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
