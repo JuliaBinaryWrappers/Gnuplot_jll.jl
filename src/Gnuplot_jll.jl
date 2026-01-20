@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("Gnuplot")
-JLLWrappers.@generate_main_file("Gnuplot", UUID("e5af9688-3aeb-5ed5-8c7e-253e55323d3e"))
+JLLWrappers.@generate_main_file("Gnuplot", Base.UUID("e5af9688-3aeb-5ed5-8c7e-253e55323d3e"))
 end  # module Gnuplot_jll
